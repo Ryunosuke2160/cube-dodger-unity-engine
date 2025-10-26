@@ -1,4 +1,4 @@
-# Cube_Dodger_UnityEngine
+# Cube Dodger UnityEngine
 Found my old personal game project. Decided to upload it here.
 
 <br>
